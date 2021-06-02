@@ -1,0 +1,61 @@
+**// HTML 'hello world': //**
+HTML:
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello world</title>
+</head>
+<body>
+	<h1>Hello World</h1>
+
+</body>
+</html>
+
+**// Python 'hello world' //**
+ Python:
+ print('Hello World')
+ 
+ **// JavaScript 'hello world' //**
+ JavaScript:
+ <!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <script>
+    alert( 'Hello, world!' );
+  </script>
+
+</body>
+
+</html>
+
+**// Java 'hello world' //**
+Java:
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+
+**// Modern JS //**
+
+Modern Javascript:
+
+document.write('Hello, world!')
+
+**// jQuery //**
+jQuery:
+
+$("body").append("Hello world!");
+
+**// Append function in jQuery can have other names too //**
+
+**// MatLab //**
+MatLab:
+
+disp('Hello, world!')
+
+**// Ruby //**
+Ruby:
+puts "Hello, World"
